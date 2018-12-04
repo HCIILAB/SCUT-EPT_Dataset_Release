@@ -43,3 +43,6 @@ We produce state-of-the-art seq-to-seq methods for text recognition problem on S
 
 For any quetions about the dataset please contact the authors by sending email to Yuanzhi Zhu([z.yuanzhi@foxmail.com](mailto:z.yuanzhi@foxmail.com)), Zecheng Xie([xiezcheng@foxmail.com](mailto:xiezcheng@foxmail.com)) or Prof. Jin([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
+## Acknowledgment
+
+This research is supported in part by the National Key Research and Development Program  of China (No. 2016YFB1001405), GD-NSF (no.2017A030312006),   NSFC (Grant No.: 61673182, 61771199), and GDSTP (Grant No.:2017A010101027) , GZSTP(no. 201607010227).
