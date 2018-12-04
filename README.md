@@ -20,24 +20,24 @@ The SCUT-EPT Dataset contains 50,000 text line images, including 40,000 for trai
 
 As shown in **Table 1**, there are totally 4,250 classes in our dataset SCUT-EPT, including 4,033 commonly used Chinese characters, 104 symbols, and 113 outlier Chinese characters, where outlier Chinese character means that the Chinese character is outside the character set of the popular CASIA-HWDB1.0-1.2. It should be noted that there is no intersection between the training set and the testing set, i.e., students who contribute to the training set will not play a part in the testing set. The total character samples in the SCUT-EPT dataset is 1,267,161, with approximately 25 characters each text line. 
 
-![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/FigureChallengeSamples.png)
+![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/TableDataset.png)
 
 In **Figure 1**, we provide the class distribution as well as typical samples of each grade. It is clear that the class distribution is extremely unbalanced, classes with 10 or fewer samples occupy a proportion of 41% while 3% of classes has more than two thousand samples each class. The imbalance distribution can bring hidden danger to the recognition system, because classes with few samples can barely be recognized in the real application. The rest of the classes, about 56%, have samples distributed from 10 to 2000. Typical samples of each grades, as demonstrated in Fig.~\ref{FigureDistribution}, are in line with common sense, for example, characters like \`我' and \`有' are popular used in daily life while \`喟' and \`鸩' are rarely used.
 
-![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/FigureChallengeSamples.png)
+![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/FigureDistribution.png)
 
 The shape of the text line image, especially the width size, plays an important role in recognition system.  Therefore, we present the sample distribution (at logarithmic axis) with respect to image text width in **Figure 2**, and draw scatter distribution of text line images with respect to their height and width in **Figure 3**. 
 In **Figure 2**, we observe that images with width between 1,200 and 1,400 pixels occupies the vast majority (about 70%) of samples, while most other intervals have approximate two thousand samples. Besides, for each width interval, we visualize the character number proportion for text lines. Not surprisingly, wider images tend to possess more characters, but there is still a considerable part of wide text line images have fewer than 10 characters. In **Figure 3**, part of the text line images are represented as points in the picture with respect to their height and width. In line with the statistics in **Figure 2**, the majority of the sample points in **Figure 3** have a width distribution between 1,200 and 1,400 pixels, with height ranging from 30 to 100 pixels, leaving the remaining points sparsely spread in the picture.
 Note that we distinguish sample points of training set from those of testing set by using different shape and color of points in **Figure 3**.
 It can be observed that the training set and testing set of SCUT-EPT share similar sample distribution.
 
-![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/FigureChallengeSamples.png)
+![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/FigureWidthandnumber_FigureWidthandheight.png)
 
 ## Experiment Results
 
 We produce state-of-the-art seq-to-seq methods for text recognition problem on SCUT-EPT in **Table 5**.  Since our solution for SCUT-EPT dataset is based on deep-learning technique and deep-learning-based methods dominate state-of-the-art result on most of the handwritten datasets, we only make comparison for this kind of methods.
 
-![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/FigureChallengeSamples.png)
+![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/TablePreviousMethods.png)
 
 ## Contact
 
