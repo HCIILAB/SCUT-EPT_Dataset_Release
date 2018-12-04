@@ -41,5 +41,5 @@ We produce state-of-the-art seq-to-seq methods for text recognition problem on S
 
 ## Contact
 
-For any quetions about the dataset please contact the authors by sending email to Yuanzhi Zhu([z.yuanzhi@foxmail.com](mailto:z.yuanzhi@foxmail.com)), Zecheng Xie([xiezcheng@foxmail.com](mailto:xiezcheng@foxmail.com)) or Prof. Jin([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn).)
+For any quetions about the dataset please contact the authors by sending email to Yuanzhi Zhu([z.yuanzhi@foxmail.com](mailto:z.yuanzhi@foxmail.com)), Zecheng Xie([xiezcheng@foxmail.com](mailto:xiezcheng@foxmail.com)) or Prof. Jin([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
