@@ -39,7 +39,18 @@ We produce state-of-the-art seq-to-seq methods for text recognition problem on S
 
 ![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/TablePreviousMethods.png)
 
-## Contact
+## Citation and Contact
+Please consider to cite our paper when you use our datasets:
+
+```
+@article{zhu2018scut,
+  title={SCUT-EPT: a New Dataset and Benchmark for Offline Chinese Text Recognition in Examination Paper},
+  author={Zhu, Yuanzhi and Xie, Zecheng and Jin, Lianwen and Chen, Xiaoxue and Huang, Yaoxiong and Zhang, Ming},
+  journal={IEEE Access},
+  year={2018},
+  publisher={IEEE}
+}
+```
 
 For any quetions about the dataset please contact the authors by sending email to Yuanzhi Zhu([z.yuanzhi@foxmail.com](mailto:z.yuanzhi@foxmail.com)), Zecheng Xie([xiezcheng@foxmail.com](mailto:xiezcheng@foxmail.com)) or Prof. Jin([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
