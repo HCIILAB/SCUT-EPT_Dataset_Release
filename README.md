@@ -40,7 +40,7 @@ We produce state-of-the-art seq-to-seq methods for text recognition problem on S
 ![image](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/images/TablePreviousMethods.png)
 
 ## Citation and Contact
-Please consider to cite our paper when you use our datasets:
+Please consider to cite our paper when you use our dataset:
 
 ```
 @article{zhu2018scut,
