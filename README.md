@@ -4,7 +4,7 @@ The SCUT-EPT Dataset for the research of offline handwritten Chinese text recogn
 
 - [SCUT-EPT](https://pan.baidu.com/s/1RHVMX1sFvtCJs1v4Uegwgg)  (Password : 2b1c , Size = 1.04GB)
 
-Note: The SCUT-EPT dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the SCUT-COUCH2009 database, please first fill in this [application Form](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/Application/Application_Form_for_Using_SCUT-EPT.doc) and send it via email to us (lianwen.jin@gmail.com). We will give you the decompression password after your letter has been received and approved. 
+Note: The SCUT-EPT dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the SCUT-COUCH2009 database, please first fill in this [Application Form](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/Application/Application_Form_for_Using_SCUT-EPT.doc) and send it via email to us (lianwen.jin@gmail.com). We will give you the decompression password after your letter has been received and approved. 
 
 ## Description
 
