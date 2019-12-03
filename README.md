@@ -5,7 +5,7 @@ The SCUT-EPT Dataset for the research of offline handwritten Chinese text recogn
 - [Baidu Cloud](https://pan.baidu.com/s/1h4d1ogn_MAnE_X0LNHowYg)  (Password : bk3x , Size = 1.08GB)
 - [OneDrive](https://1drv.ms/u/s!AlPCATpK8Ix6aQ2mqpavf5rXLWI) 
 
-Note: The SCUT-EPT dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the SCUT-EPT database, please first fill in this [Application Form](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/Application_Form/Application_Form_for_Using_SCUT-EPT.doc) and send it via email to us (lianwen.jin@gmail.com). We will give you the decompression password after your letter has been received and approved. 
+Note: The SCUT-EPT dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the SCUT-EPT database, please first fill in this [Application Form](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release/blob/master/Application_Form/Application_Form_for_Using_SCUT-EPT.doc) and send it via email to us (eelwjin@scut.edu.cn, or lianwen.jin@gmail.com). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, handwriting analysis and recognition, document image processing, intelligent education, and so on.  We will give you the decompression password after your letter has been received and approved. 
 
 ## Description
 
@@ -53,6 +53,4 @@ Please consider to cite our paper when you use our dataset:
 ```
 For any quetions about the dataset please contact the authors by sending email to Yuanzhi Zhu([z.yuanzhi@foxmail.com](mailto:z.yuanzhi@foxmail.com)), Zecheng Xie([xiezcheng@foxmail.com](mailto:xiezcheng@foxmail.com)) or Prof. Jin([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
-## Acknowledgment
 
-This research is supported in part by the National Key Research and Development Program  of China (No. 2016YFB1001405), GD-NSF (no.2017A030312006),   NSFC (Grant No.: 61673182, 61771199), and GDSTP (Grant No.:2017A010101027) , GZSTP(no. 201607010227).
